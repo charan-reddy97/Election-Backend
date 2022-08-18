@@ -1,0 +1,15 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*",
+  "Client": {
+    "Name": "A Real Client",
+    "DataBaseConnection": "Integrated Security=SSPI;Server=.;DataBase=BookLibrary"
+  }
+
+}
